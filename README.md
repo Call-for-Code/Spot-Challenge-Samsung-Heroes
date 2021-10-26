@@ -28,6 +28,7 @@ Solution is well-documented, has a compelling demo, and is something an ecosyste
 - [GitHub repo](https://github.com/Call-for-Code/Spot-Challenge-Samsung-Heroes)
 - [Slack workspace](http://callforcode.org/slack) - _#samsung-spot-challenge_ channel
 - [Samsung Knox Partner Program - Call for Code landing page](https://partner.samsungknox.com/callforcode)
+- [Participation Agreement}(https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/)
 
 ## Honoring Everyday Heroes Challenge
 
@@ -52,11 +53,11 @@ Solution is well-documented, has a compelling demo, and is something an ecosyste
 - Galaxy Z Fold3 (each team member to receive)
 - Deployment Support from IBM + Samsung Electronics
 
-Please see Participation Agreement for the full detail of Prize Condititions.
+Please see [Participation Agreement](https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/) for the full detail of all Prize Condititions.
 
 ### Timeline
 
-The challenge will be open from 26 October until 20 November. During that time participants will be able to utilize technical enablment, office hours and connect with challenge mentors during officer hours or in the slack channel.
+The challenge will be open from 26 October until 20 November at 11:59 pm PDT. During that time participants will be able to utilize technical enablment, office hours and connect with challenge mentors during officer hours or in the slack channel.
 
 - 26 October: Announce challenge
 - 2 November: Technical Enablement Workshops Begin
@@ -147,4 +148,4 @@ Items to keep in mind:
 
 - IBM, Red Hat, and Samsung employees are not eligible to participate
 - The maximum team size is 5
-- Prize conditions (full details can be found in Participation Agreement) The Sponsors reserve the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the sole responsibility of winners. 
+- Prize conditions (full details can be found in Participation Agreement) The Sponsors reserve the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the sole responsibility of winners.
