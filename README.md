@@ -28,7 +28,7 @@ Solution is well-documented, has a compelling demo, and is something an ecosyste
 - [GitHub repo](https://github.com/Call-for-Code/Spot-Challenge-Samsung-Heroes)
 - [Slack workspace](http://callforcode.org/slack) - _#samsung-spot-challenge_ channel
 - [Samsung Knox Partner Program - Call for Code landing page](https://partner.samsungknox.com/callforcode)
-- [Participation Agreement}(https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/)
+- [Participation Agreement](https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/)
 
 ## Honoring Everyday Heroes Challenge
 
