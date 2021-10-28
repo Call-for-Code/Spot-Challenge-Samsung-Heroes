@@ -4,7 +4,7 @@ The recent pandemic has highlighted the often unsung heroes who serve us. Whethe
 
 Technology can solve the world's biggest problems, and it has an integral role to play in bringing support to everyday heroes in a variety of ways. You can join the Call for Code community in contributing to the cause. IBM and Samsung have teamed up to deliver Call for Code: Honoring Everyday Heroes – a challenge that encourages developers and problem solvers around the world to build solutions for everyday heroes.
 
-Those that Answer the Call are invited to create a solution to help or honor the lives of our everyday heroes. Submissions for the Challenge must be able to run on a Samsung tablet, smartphone, and/or wearable device and make use of one or more IBM open hybrid cloud technologies such as IBM Cloud or IBM Watson. Participants will also have access to Samsung toolkits, as well as data from The Weather Company
+Those that Answer the Call are invited to create a solution to help or honor the lives of our everyday heroes. Submissions for the Challenge must be able to run on a Samsung tablet, smartphone, and/or wearable device and make use of one or more IBM open hybrid cloud technologies such as IBM Cloud or IBM Watson. Participants will also have access to Samsung toolkits, as well as data from The Weather Company.
 
 ## An example
 
@@ -53,14 +53,14 @@ Solution is well-documented, has a compelling demo, and is something an ecosyste
 - Galaxy Z Fold3 (each team member to receive)
 - Deployment Support from IBM + Samsung Electronics
 
-Please see [Participation Agreement](https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/) for the full detail of all Prize Condititions.
+Please see the [Participation Agreement](https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/) for the full detail of all Prize Condititions.
 
 ### Timeline
 
-The challenge will be open from 26 October until 20 November at 11:59 pm PDT. During that time participants will be able to utilize technical enablment, office hours and connect with challenge mentors during officer hours or in the slack channel.
+The challenge will be open from 26 October until 20 November at 11:59 pm PDT. During that time participants will be able to utilize technical enablement, office hours and connect with challenge mentors during office hours or in the Slack channel.
 
-- 26 October: Announce challenge
-- 2 November: Technical Enablement Workshops Begin
+- 26 October: Challenge announcement
+- 2 November: Technical enablement workshops begin
 - 20 November: Submission deadline
 - 9 December: Announce winner
 
@@ -73,13 +73,13 @@ For each submission you need to submit:
 - Link to 3-minute or shorter video that describes and demonstrates your solution
 - IBM Cloud service(s) or IBM System(s) used in your solution
 - Other data sets, libraries, externally hosted services and APIs
-- Identify what Samsung hardware your solution runs on. 
+- Identify what Samsung hardware your solution runs on
 - Roadmap
 
 One team member will submit the project, however all team members will need to accept the Participation Agreement.  
 
 ### Judging
-Each Submission will be scored in each round based on the following criteria with a minimum score of 0 and maximum score of 20 points, with the final score being the average of the judges’ scores and an assessment of: 
+Each Submission will be scored in each round based on the following criteria with a minimum score of 0 and maximum score of 20 points, with the final score being the average of the judges’ scores and an assessment of:
  
 - Completeness and transferability (5 points)
 - Effectiveness and efficiency (5 points)
@@ -89,7 +89,7 @@ Each Submission will be scored in each round based on the following criteria wit
 
 ### IBM Cloud
 
-One of the requirements to win the contest is to use an IBM Cloud Service such as ....
+One of the requirements to win the contest is to use an IBM Cloud Service.
 
 - [Sign up for a free IBM Cloud account](https://cloud.ibm.com/registration?utm_medium=Email&utm_source=Transactional&utm_content=DEVWW&utm_term=10008917&utm_id=cfc2021community)
 - [Join the Call for Code Samsung Spot Challenge](https://developer.ibm.com/dwwi/jsp/register.jsp?eventid=cfc2021spotsamsung)
@@ -109,7 +109,7 @@ Knox SDK extends the functionality of the standard Android SDK to provide granul
 
 - Customize all aspects of the device, such as restricting apps, customizing system settings and boot-up animation/wallpaper, and remapping device keys
 
-To read up more on the Samsung Knox SDK and to confirm if you have a supported device and OS, please refer to the following:
+To read more on the Samsung Knox SDK and to confirm if you have a supported device and OS, please refer to the following:
 
 - [Samsung Knox SDK](https://docs.samsungknox.com/dev/knox-sdk/index.htm)
 - [Android OS Versions Supported](https://docs.samsungknox.com/dev/common/knox-version-mapping.htm)
@@ -148,4 +148,4 @@ Items to keep in mind:
 
 - IBM, Red Hat, and Samsung employees are not eligible to participate
 - The maximum team size is 5
-- Prize conditions (full details can be found in Participation Agreement) The Sponsors reserve the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the sole responsibility of winners.
+- Prize conditions (full details can be found in the Participation Agreement). The Sponsors reserve the right to substitute a similar prize (or prize element) of comparable or greater value. All taxes and other expenses, costs, or fees associated with the acceptance and/or use of any Prize are the sole responsibility of winners.
