@@ -2,7 +2,7 @@
 
 ## Get a Free Developer Account
 
-1. Navigate to the Knox Partner Program Call for Code page and click "Sign Up" at the bottom of the screen:
+1. Navigate to the [Knox Partner Program Call for Code](https://partner.samsungknox.com/callforcode) page and click "Sign Up" at the bottom of the screen:
 
    ![image](https://user-images.githubusercontent.com/88462282/137194434-61aa97b1-94da-45cd-aca9-43dfc6c2a62a.png)
 
