@@ -93,7 +93,7 @@ One of the requirements to win the contest is to use an IBM Cloud Service.
 
 - [Sign up for a free IBM Cloud account](https://cloud.ibm.com/registration?utm_medium=Email&utm_source=Transactional&utm_content=DEVWW&utm_term=10008917&utm_id=cfc2021community)
 - [Join the Call for Code Samsung Spot Challenge](https://developer.ibm.com/dwwi/jsp/register.jsp?eventid=cfc2021spotsamsung)
-- Weather Company APIs / data
+- [Weather Company APIs / data](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/#)
 - IBM Edge/analytics tech
 - Prometeo/Pyrrha based open source technology
 - Other Linux Foundation projects
