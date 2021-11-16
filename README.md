@@ -1,6 +1,6 @@
 # Call for Code Honoring Everyday Heroes Challenge  
 
-The recent pandemic has highlighted the often unsung heroes who serve us. Whether its the trusted doctor who provides the annual check-up, your child’s favorite mathematics teacher, or the driver delivering your weekly groceries: service is essential to our lives. As we all navigate our own versions of life in this new normal, it’s critical to acknowledge the strain experienced by those fulfilling our everyday needs – the everyday heroes. 
+The recent pandemic has highlighted the often unsung heroes who serve us. Whether it's the trusted doctor who provides the annual check-up, your child’s favorite mathematics teacher, or the driver delivering your weekly groceries: service is essential to our lives. As we all navigate our own versions of life in this new normal, it’s critical to acknowledge the strain experienced by those fulfilling our everyday needs – the everyday heroes. 
 
 Technology can solve the world's biggest problems, and it has an integral role to play in bringing support to everyday heroes in a variety of ways. You can join the Call for Code community in contributing to the cause. IBM and Samsung have teamed up to deliver Call for Code: Honoring Everyday Heroes – a challenge that encourages developers and problem solvers around the world to build solutions for everyday heroes.
 
