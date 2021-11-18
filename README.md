@@ -77,9 +77,10 @@ For each submission you need to submit:
 - Identify what Samsung hardware your solution runs on
 - Roadmap
 
-One team member will [submit the project](https://callforcode.typeform.com/to/eByfVSAg), however all team members will need to accept the Participation Agreement.  
+One team member will [submit the project](https://callforcode.typeform.com/to/eByfVSAg), however all other team members will need to accept the [Participation Agreement](https://callforcode.typeform.com/to/v01iG4xJ).
 
 ### Judging
+
 Each Submission will be scored in each round based on the following criteria with a minimum score of 0 and maximum score of 20 points, with the final score being the average of the judges’ scores and an assessment of:
  
 - Completeness and transferability (5 points)
