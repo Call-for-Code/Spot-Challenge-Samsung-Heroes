@@ -1,4 +1,4 @@
-# Call for Code Honoring Everyday Heroes Challenge  
+# Call for Code Honoring Everyday Heroes Challenge
 
 The recent pandemic has highlighted the often unsung heroes who serve us. Whether it's the trusted doctor who provides the annual check-up, your child’s favorite mathematics teacher, or the driver delivering your weekly groceries: service is essential to our lives. As we all navigate our own versions of life in this new normal, it’s critical to acknowledge the strain experienced by those fulfilling our everyday needs – the everyday heroes. 
 
@@ -29,6 +29,7 @@ Solution is well-documented, has a compelling demo, and is something an ecosyste
 - [Slack workspace](http://callforcode.org/slack) - _#samsung-spot-challenge_ channel
 - [Samsung Knox Partner Program - Call for Code landing page](https://partner.samsungknox.com/callforcode)
 - [Participation Agreement](https://callforcode.org/call-for-code-honoring-everyday-heroes-participation-agreement/)
+- [Submission form](https://callforcode.typeform.com/to/eByfVSAg)
 
 ## Honoring Everyday Heroes Challenge
 
@@ -67,8 +68,8 @@ The challenge will be open from 26 October until 20 November at 11:59 pm PDT. Du
 ### Submissions
 
 For each submission you need to submit:
-- Project Name
-- Short Description 
+- Project name
+- Short description 
 - Link to public GitHub repository with working source code
 - Link to 3-minute or shorter video that describes and demonstrates your solution
 - IBM Cloud service(s) or IBM System(s) used in your solution
@@ -76,7 +77,7 @@ For each submission you need to submit:
 - Identify what Samsung hardware your solution runs on
 - Roadmap
 
-One team member will submit the project, however all team members will need to accept the Participation Agreement.  
+One team member will [submit the project](https://callforcode.typeform.com/to/eByfVSAg), however all team members will need to accept the Participation Agreement.  
 
 ### Judging
 Each Submission will be scored in each round based on the following criteria with a minimum score of 0 and maximum score of 20 points, with the final score being the average of the judges’ scores and an assessment of:
@@ -85,7 +86,6 @@ Each Submission will be scored in each round based on the following criteria wit
 - Effectiveness and efficiency (5 points)
 - Design and usability (5 points)
 - Creativity and innovation (5 points)
-
 
 ### IBM Cloud
 
